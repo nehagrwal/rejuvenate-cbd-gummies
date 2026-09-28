@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/rejuvenate-cbd-gummies/sitemap.xml
+Sitemap: https://rejuvenate-cbd-gummies.vercel.app/sitemap-vercel.xml
+Sitemap: https://rejuvenate-cbd-gummies.pages.dev/sitemap-cloudflare.xml
